@@ -1,3 +1,6 @@
+> [DEMO for the application](https://smoothies-ba8e0.web.app/)
+
+
 # smoothies
 
 > A Vue.js project
