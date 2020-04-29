@@ -3,6 +3,8 @@
 
 # smoothies
 
+![](preview.jpg)
+
 > A Vue.js project
 
 ## Build Setup
